@@ -8,3 +8,4 @@ C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.csproj.GenerateResource.cache
 C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.csproj.CoreCompileInputs.cache
 C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.exe
 C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.pdb
+C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.Form1.resources
