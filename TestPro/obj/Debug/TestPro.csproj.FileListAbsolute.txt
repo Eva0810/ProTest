@@ -1,0 +1,10 @@
+C:\My Pro\TestPro\TestPro\bin\Debug\TestPro.exe.config
+C:\My Pro\TestPro\TestPro\bin\Debug\TestPro.exe
+C:\My Pro\TestPro\TestPro\bin\Debug\TestPro.pdb
+C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.csproj.AssemblyReference.cache
+C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.csproj.SuggestedBindingRedirects.cache
+C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.Properties.Resources.resources
+C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.csproj.GenerateResource.cache
+C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.csproj.CoreCompileInputs.cache
+C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.exe
+C:\My Pro\TestPro\TestPro\obj\Debug\TestPro.pdb
